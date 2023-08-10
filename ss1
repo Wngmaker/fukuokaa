@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bài về nhà Sesion1</title>
+</head>
+<body>
+    <p><b><h1>Phân loại và liệt kê giữa 2 nhóm thẻ trong HTML</h1><b><p>
+    <br><i><h2>Phân loại</h2><i><br>
+    <p><strong>Thẻ Block</strong>:là nhóm thẻ chiếm 100% độ rộng màn hình, chiều cao sẽ theo nội dung bên trong</p>
+    <p><strong>Thẻ Inline</strong>là nhóm thẻ chiếm một phạm vi nhất định, chiều dài phụ thuộc độ lớn dữ liệu<p>
+    <p>Những thẻ đặc biệt thuộc block lẫn inline: button, img...</p>
+    <hr>
+    <h3><span>Các thẻ tiêu biểu thuộc 2 nhóm</span></h3>
+<ol>
+    <li><h4>Nhóm thẻ Inline</h4>
+      <ul>
+                <li>br:xuống dòng</li>
+                <li>u:gạch chân</li>
+                <li>strong:in đậm</li>
+                <li>em:in nghiêng</li>
+                <li>sup:thẻ hiển thị chỉ số trên<li>
+                <li>sub:thẻ hiển thị chỉ số dưới<li>
+                <li>span:khung nhóm thẻ inline khác nhau</li>
+                <li>textarea:tạo ô nhập text</li>
+                <li>legend:tạo ô vuông bao quanh nội dung</li>                
+                <li>hr:thẻ tạo đường kẻ ngang</li>
+        <ul>
+     <li><h4>Nhóm thẻ Block</h4></li> 
+     </ul>
+                <li><em>hx:thẻ định dạng tiêu đề. ví dụ: h1,h2,h3,h4,h5,h6.</em></li>
+                <li>p:thẻ định dạng đoạn văn bản</li>
+                <li>div:thẻ phân chia khu vực</li>
+                <li>ul,li:thẻ danh sách không có thứ tự</li>
+                <li>ol,li:thẻ danh sách có thứ tự</li>
+                <li>dl,dt,dd:thẻ xác định danh sách</li>
+                <li>header:xác định phần đầu trang web</li>
+                <li>nav:xác định khu vực link điều hướng</li>
+                <li>section:xác định khu vực có nội dung</li>
+                <li>article:xác định khu vực bài viết</li>
+                <li>aside:xác định khu vực phụ,bổ nghĩa cho khu vực article hoặc quảng cáo</li>
+                <li>footer:thẻ xác định khu vực cuối trang web,thường là liên kết phụ,thông tin liên hệ,...</li>
+                <li>a:thẻ dẫn link liên kết</li>
+</body>
+</html>
